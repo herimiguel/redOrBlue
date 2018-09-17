@@ -1,0 +1,26 @@
+.headImg{
+    background-image: url("/img/redOrBlue.jpeg");
+    height: 100%; 
+    width: 100%;
+    background-image: url("/img/redOrBlue.jpeg");
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.red {
+    float: right;
+}
+.blue {
+    float: left;
+}
+
+.center {
+    padding-left: 470px;
+}
+
